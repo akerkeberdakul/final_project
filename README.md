@@ -1,6 +1,8 @@
 # MoviElla
 
 MoviElla is a responsive movie website for browsing films, watching trailers and writing short reviews. It was built as the final project for Web Technologies-1 and uses live data from the TMDB (The Movie Database) API.
+Github link:https://github.com/akerkeberdakul/final_project
+Pages:https://akerkeberdakul.github.io/final_project/
 
 
 ## Project objectives
